@@ -1,3 +1,4 @@
-NIM : 3337230061
-Nama : Raja Revanery Ramadhan
-Alamat : Serang
+NIM	: 3337230061
+Nama	: Raja Revanery Ramadhan
+Alamat	: Serang
+
